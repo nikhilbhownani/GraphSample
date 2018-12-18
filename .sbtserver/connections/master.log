@@ -1,0 +1,28 @@
+New log file opened at Tue Dec 18 07:09:34 IST 2018 by 60545@Nikhils-MacBook-Pro-2.local
+Taking next connection to: 60240
+New client attempting to connect on port: 60241-60240
+  Address = /192.168.1.133:60240
+This client on port 60241 has uuid 656357e7-7250-46f7-ae5f-e49bdebd9ea6 configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-656357e7-7250-46f7-ae5f-e49bdebd9ea6
+Taking next connection to: 60240
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 60240
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 60240
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 60240
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 60240
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 60240
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 60240
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 60240
